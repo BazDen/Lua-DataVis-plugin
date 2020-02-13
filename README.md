@@ -1,5 +1,5 @@
 # Lua-DataVis-plugin
-plugin for drawing 2D graphics in Lua (Corona)
+plugin for drawing 2D charts in Lua (Corona)
 -----------------------------------------------------------------------------------
 
 The plugin supports 4 types of charts:
