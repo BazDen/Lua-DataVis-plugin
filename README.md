@@ -37,4 +37,3 @@ graphOptions = {
 		g = DataVis.point(display, graphOptions)		
 	end	
   sceneGroup:insert( g )
-  
