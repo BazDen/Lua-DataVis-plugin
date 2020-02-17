@@ -1,0 +1,3 @@
+This project is an example of a system utility called PING. With this program you can check the availability of network resources, you just need to specify the domain name or ip-address, as well as the port (for example, port 80)
+
+I believe that with the help of CoronaLabs it is possible to implement complex applications for the Windows (desktop applications).  With this program you can check the availability of network resources, you just need to specify the domain name or ip-address, as well as the port (for example, port 80). I post all the project source codes so that you can see how the function of checking the availability of network resources is implemented, which is implemented as a parallel task that runs on the background, every second.
