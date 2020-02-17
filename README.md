@@ -36,4 +36,4 @@ graphOptions = {
 	elseif (graphType== "Point") then 	
 		g = DataVis.point(display, graphOptions)		
 	end	
-  sceneGroup:insert( g )
+  sceneGroup:insert( g ) 
